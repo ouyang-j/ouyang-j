@@ -15,7 +15,7 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 I am currently pursuing my Master of Science in [Computational Finance and Risk Management](https://depts.washington.edu/compfin/) at [Department of Applied Mathematics](https://amath.washington.edu/) of [University of Washington](https://www.washington.edu/).
-Previouly, I have achieved Honours Bachelor of Mathematics in [Financial Analysis and Risk Management](https://uwaterloo.ca/math/undergraduate-studies/programs/mathematicsfinancial-analysis-and-risk-management-farm) and [Statistics](https://uwaterloo.ca/math/undergraduate-studies/programs/statistics) at [The Department of Statistics and Actuarial Science](https://uwaterloo.ca/statistics-and-actuarial-science/) of [University of Waterloo](https://uwaterloo.ca/) .
+Previouly, I have achieved Honours Bachelor of Mathematics Double Major in [Financial Analysis and Risk Management](https://uwaterloo.ca/future-students/programs/financial-analysis-and-risk-management) and [Statistics](https://uwaterloo.ca/future-students/programs/statistics) at [The Department of Statistics and Actuarial Science](https://uwaterloo.ca/statistics-and-actuarial-science/) of [University of Waterloo](https://uwaterloo.ca/) .
 
 I'm currently a member of [CFA Society Seattle](https://www.cfasociety.org/seattle/home) and an [FRM Part I](https://my.garp.org/DigitalBadgeFRMI?id=0035d000070WrZCAA0) passer, actively pursuing the dual-charter path.
 
