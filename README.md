@@ -33,3 +33,6 @@ I'm currently a member of [CFA Society Seattle](https://www.cfasociety.org/seatt
 &nbsp;
 [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/ouyang-j)
 [![Resume](https://img.icons8.com/material-outlined/24/000000/resume.png) Resume](https://media.licdn.com/dms/document/media/v2/D562DAQHAqdiHAtci_A/profile-treasury-document-pdf-analyzed/B56ZvE3CtoIYAk-/0/1768534323628?e=1769644800&v=beta&t=2UkyPUfz382H3-LPGffHBzEQaB3leep2WQRNOEWHvNM&acrobatPromotionSource=linkedin_chrome-post_view)
+
+### Banner
+![Banner](images/wealth_hist.png)
