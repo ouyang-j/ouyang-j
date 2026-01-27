@@ -36,10 +36,12 @@ I'm currently a member of [CFA Society Seattle](https://www.cfasociety.org/seatt
 &nbsp;
 [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/ouyang-j)
 &nbsp;
-[![Resume](https://img.icons8.com/material-outlined/24/000000/resume.png) Resume](https://media.licdn.com/dms/document/media/v2/D562DAQHAqdiHAtci_A/profile-treasury-document-pdf-analyzed/B56ZvE3CtoIYAk-/0/1768534323628?e=1769644800&v=beta&t=2UkyPUfz382H3-LPGffHBzEQaB3leep2WQRNOEWHvNM&acrobatPromotionSource=linkedin_chrome-post_view)
+[<img src="https://img.icons8.com/material-outlined/24/000000/resume.png" height="40" align="center"> Resume](https://media.licdn.com/dms/document/media/v2/D562DAQHAqdiHAtci_A/profile-treasury-document-pdf-analyzed/B56ZvE3CtoIYAk-/0/1768534323628?e=1769644800&v=beta&t=2UkyPUfz382H3-LPGffHBzEQaB3leep2WQRNOEWHvNM&acrobatPromotionSource=linkedin_chrome-post_view)
 &nbsp;
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) Email](mailto:tsing.ouyang@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="40" align="center"> Email](mailto:tsing.ouyang@gmail.com)
 &nbsp;
 [<img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/230/2023/11/02134810/W-Logo_Purple_RGB.png" height="20" align="center"> UW Email](mailto:j22ouyan@uw.edu)
 &nbsp;
-[![Phone](https://img.icons8.com/material-outlined/24/000000/phone.png) +1 (206) 892-8270](tel:+2068928270)
+[<img src="https://uwaterloo.ca/brand/sites/ca.brand/files/universityofwaterloo_logo_vert_rgb.png" height="40" width="50" align="center"> UWaterloo Email](mailto:j22ouyan@uwaterloo.ca)
+&nbsp;
+[<img src="https://img.icons8.com/material-outlined/24/000000/phone.png" height="40" align="center"> +1 (206) 892-8270](tel:+2068928270)
