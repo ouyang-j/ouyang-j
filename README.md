@@ -41,3 +41,4 @@ I'm currently a member of [CFA Society Seattle](https://www.cfasociety.org/seatt
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) Email](mailto:tsing.ouyang@gmail.com)
 &nbsp;
 [<img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/230/2023/11/02134810/W-Logo_Purple_RGB.png" height="20" align="center"> UW Email](mailto:j22ouyan@uw.edu)
+[<img src="https://uwaterloo.ca/brand/sites/ca.brand/files/universityofwaterloo_logo_vert_rgb.png" height="40" align="center"> UWaterloo Email](mailto:j22ouyan@uwaterloo.ca)
