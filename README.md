@@ -27,8 +27,8 @@ I'm currently a member of [CFA Society Seattle](https://www.cfasociety.org/seatt
 -  **Machine & Deep Learning:** Leveraging neural networks and predictive modeling to decode complex, non-linear patterns in data
 
 ### 🚀 What I'm up to:
-- 🔭 Working on a N-BEATS strategy for Trading Systems.
-- 📈 Backtesting strategies for Cryptocurrency Market.
+- 🔭 ~~Working on a N-BEATS strategy for Trading Systems.~~ It is completed, please see my most current [repo](https://github.com/ouyang-j/Bitcoin-Price-Prediction-Using-N-BEATS) for details.
+- 📈 ~~Backtesting strategies for Cryptocurrency Market.~~ It is completed, please see my most current [repo](https://github.com/ouyang-j/Bitcoin-Price-Prediction-Using-N-BEATS) for details.
 - 💼 Actively looking for 2026 Summer Internship in Finance.
 
 ### 📫 Connect with me:
