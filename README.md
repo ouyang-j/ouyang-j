@@ -22,7 +22,7 @@ Previously, I hold an Honours Bachelor of Mathematics with double major in [Fina
 
 I'm currently a member of [CFA Society Seattle](https://www.cfasociety.org/seattle/home) and an [FRM Part I](https://my.garp.org/DigitalBadgeFRMI?id=0035d000070WrZCAA0) passer, actively pursuing the dual-charter path.
 
-Previously, I interned at [Athene](https://www.athene.com/), [Aon](https://www.aon.com/en/), [Liberty](https://libertyutilities.com/) and [Infore Capital](https://www.inforecapital.com/) though different aspects of finance area. I was also a food distributor volunteer at [Harver Manitoba](https://www.harvestmanitoba.ca/).
+Previously, I interned at [Athene](https://www.athene.com/), [Aon](https://www.aon.com/en/), [Liberty](https://libertyutilities.com/) and [Infore Capital](https://www.inforecapital.com/) though different aspects of finance area. I was also a food distribution volunteer at [Harvest Manitoba](https://www.harvestmanitoba.ca/).
 
 ### 📓 What my passions and interest are:
 -  **Quantitative Finance:** Modeling derivatives and portfolio risk through the lens of stochastic calculus and rigorous mathematical frameworks
