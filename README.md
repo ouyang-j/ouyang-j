@@ -15,6 +15,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
+I am doing my summer internship of Performance and Analytics at [Healthcare of Ontario Pension Plan (HOOPP)](https://hoopp.com/) in Toronto, Ontario.
 I am currently pursuing my Master of Science in [Computational Finance and Risk Management](https://depts.washington.edu/compfin/) at [Department of Applied Mathematics](https://amath.washington.edu/) of [University of Washington](https://www.washington.edu/).
 Previouly, I have achieved Honours Bachelor of Mathematics Double Major in [Financial Analysis and Risk Management](https://uwaterloo.ca/future-students/programs/financial-analysis-and-risk-management)-[Professional Risk Management Specialization](https://prmia.org/Public/Public/News/2018_News/PRMIA_Awards_Risk_Management_Accreditation_to_University_of_Waterloo_FARM_Program.aspx) and [Statistics](https://uwaterloo.ca/future-students/programs/statistics) at [The Department of Statistics and Actuarial Science](https://uwaterloo.ca/statistics-and-actuarial-science/) of [University of Waterloo](https://uwaterloo.ca/) .
 
@@ -27,9 +28,9 @@ I'm currently a member of [CFA Society Seattle](https://www.cfasociety.org/seatt
 -  **Machine & Deep Learning:** Leveraging neural networks and predictive modeling to decode complex, non-linear patterns in data
 
 ### 🚀 What I'm up to:
-- 🔭 ~~Working on a N-BEATS strategy for Trading Systems.~~ It is completed, please see my most current [repo](https://github.com/ouyang-j/Bitcoin-Price-Prediction-Using-N-BEATS) for details.
-- 📈 ~~Backtesting strategies for Cryptocurrency Market.~~ It is completed, please see my most current [repo](https://github.com/ouyang-j/Bitcoin-Price-Prediction-Using-N-BEATS) for details.
-- 💼 Actively looking for 2026 Summer Internship in Finance.
+- 🔭 Working as an intern to get hands-on experience in quantitative risk analytics and investment reporting
+- 📈 Implementing AI agent deployment for robust model development and validation workflows
+- 💼 Actively looking for full-time positions in Quantitative Finance, Risk Analytics, and Model Development/Validation
 
 ### 📫 Connect with me:
 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tsing-ouyang/)
