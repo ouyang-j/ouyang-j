@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](banner2.png)
 
 # Hello! I'm Tsing Ouyang 🎓
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -37,7 +37,7 @@ I'm currently a member of [CFA Society Seattle](https://www.cfasociety.org/seatt
 &nbsp;
 [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/ouyang-j)
 &nbsp;
-[<img src="https://img.icons8.com/material-outlined/24/000000/resume.png" height="40" align="center"> Resume](Tsing_Ouyang_Resume.pdf)
+[<img src="https://img.icons8.com/material-outlined/24/000000/resume.png" height="40" align="center"> Resume](Tsing Ouyang Resume.pdf)
 &nbsp;
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="40" align="center"> Email](mailto:tsing.ouyang@gmail.com)
 &nbsp;
