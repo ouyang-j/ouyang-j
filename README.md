@@ -15,14 +15,14 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-I am doing my summer internship of Performance and Analytics at [Healthcare of Ontario Pension Plan (HOOPP)](https://hoopp.com/) in Toronto, Ontario.
+I am completing the summer internship in System Performance and Analytics at [Healthcare of Ontario Pension Plan (HOOPP)](https://hoopp.com/) in Toronto, Ontario.
 
-I am currently pursuing my Master of Science in [Computational Finance and Risk Management](https://depts.washington.edu/compfin/) at [Department of Applied Mathematics](https://amath.washington.edu/) of [University of Washington](https://www.washington.edu/).
-Previouly, I have achieved Honours Bachelor of Mathematics Double Major in [Financial Analysis and Risk Management](https://uwaterloo.ca/future-students/programs/financial-analysis-and-risk-management)-[Professional Risk Management Specialization](https://prmia.org/Public/Public/News/2018_News/PRMIA_Awards_Risk_Management_Accreditation_to_University_of_Waterloo_FARM_Program.aspx) and [Statistics](https://uwaterloo.ca/future-students/programs/statistics) at [The Department of Statistics and Actuarial Science](https://uwaterloo.ca/statistics-and-actuarial-science/) of [University of Waterloo](https://uwaterloo.ca/). I am also an alumnus of [The University of Winnipeg Collegiate (UWC)](https://collegiate.uwinnipeg.ca/) in Winnipeg, MB and alumus of [Mingde High School (明德中学)](www.mdzx.net) in Changsha, Hunan, China.
+I am currently pursuing my Master of Science in [Computational Finance and Risk Management](https://depts.washington.edu/compfin/) at the [Department of Applied Mathematics](https://amath.washington.edu/) of [University of Washington](https://www.washington.edu/).
+Previously, I hold an Honours Bachelor of Mathematics with double major in [Financial Analysis and Risk Management](https://uwaterloo.ca/future-students/programs/financial-analysis-and-risk-management)([Professional Risk Management Specialization](https://prmia.org/Public/Public/News/2018_News/PRMIA_Awards_Risk_Management_Accreditation_to_University_of_Waterloo_FARM_Program.aspx)) and [Statistics](https://uwaterloo.ca/future-students/programs/statistics) from [The Department of Statistics and Actuarial Science](https://uwaterloo.ca/statistics-and-actuarial-science/) at [University of Waterloo](https://uwaterloo.ca/). I am also an alumnus of [The University of Winnipeg Collegiate (UWC)](https://collegiate.uwinnipeg.ca/) and [Mingde High School (明德中学)](www.mdzx.net) in Changsha, Hunan, China.
 
 I'm currently a member of [CFA Society Seattle](https://www.cfasociety.org/seattle/home) and an [FRM Part I](https://my.garp.org/DigitalBadgeFRMI?id=0035d000070WrZCAA0) passer, actively pursuing the dual-charter path.
 
-Previously, I have interned at [Athene](https://www.athene.com/), [Aon](https://www.aon.com/en/), [Liberty](https://libertyutilities.com/) and [Infore Capital](https://www.inforecapital.com/).
+Previously, I interned at [Athene](https://www.athene.com/), [Aon](https://www.aon.com/en/), [Liberty](https://libertyutilities.com/) and [Infore Capital](https://www.inforecapital.com/).
 
 ### 📓 What my passions and interest are:
 -  **Quantitative Finance:** Modeling derivatives and portfolio risk through the lens of stochastic calculus and rigorous mathematical frameworks
